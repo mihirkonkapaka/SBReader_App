@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SBReader</string>
+    <string name="app_prefix">SB</string>
+    <string name="app_suffix">Reader</string>
+
+    <!-- Button texts -->
+    <string name="start">Start</string>
+    <string name="pause">Pause</string>
+    <string name="resume">Resume</string>
+    <string name="skip">Skip Question</string>
+    <string name="next">Next Question</string>
+    <string name="buzz">Buzz</string>
+    <string name="reset_stats">Reset Statistics</string>
+    <string name="submit">Submit</string>
+
+    <!-- Answer handling -->
+    <string name="correct_answer">Correct Answer: %1$s</string>
+    <string name="i_was_wrong">I was wrong</string>
+    <string name="i_was_correct">I was correct</string>
+    <string name="answer_hint">Type your answer…</string>
+    <string name="initial_score">Score: 0</string>
+    <string name="score_display">Score: %1$d</string>
+
+    <!-- Prompts and notifications -->
+    <string name="time_up">Time\'s up!</string>
+    <string name="correct">Correct!</string>
+    <string name="incorrect">Incorrect</string>
+    <string name="tossup_completed">Tossup completed</string>
+    <string name="bonus_completed">Bonus completed</string>
+    <string name="times_up">Time\'s up!</string>
+</resources>
